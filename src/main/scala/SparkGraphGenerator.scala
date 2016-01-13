@@ -19,8 +19,7 @@ object SparkGraphGenerator {
 		
 		val graph = GraphGenerators.logNormalGraph(sc, numVertices = vertexCount)
 
-		graph.vertices.saveAsTextFile(outputFile)
-
+		graph.edges.map(e => e.srcId + " " + e.dstId).saveAsTextFile(outputFile)
         sc.stop()
 	}
 }
