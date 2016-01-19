@@ -15,7 +15,8 @@ object SparkConnectedComponents {
 
 		val conf = new SparkConf()
 		val sc = new SparkContext(conf.setAppName("SparkConnectedComponents(" + fname + ")"))
-		
+
+		val t0 = System.currentTimeMillis()
 		// Load the graph
 		val graph = GraphLoader.edgeListFile(sc, fname)
 
@@ -48,8 +49,11 @@ object SparkConnectedComponents {
 			graph.pregel(initialMsg = Int.MaxValue, activeDirection = EdgeDirection.Out)(
 				vprog, sendMsg, mergeMsg)
 
-		minGraph.vertices.collect().foreach{
+		/*minGraph.vertices.collect().foreach{
 			case (vertexId, value) => println(vertexId + " = " + value)
-		}
+		}*/
+
+		val t1 = System.currentTimeMillis()
+		println("Elapsed time: " + (t1 - t0) + " ms")
 	}
 }
