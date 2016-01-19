@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/connectedcomponents_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SparkConnectedComponents$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkConnectedComponents$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	SparkConnectedComponents$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkConnectedComponents$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SparkGraphGenerator$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkGraphGenerator$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	SparkGraphGenerator.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkGraphGenerator.class[0m
+[0m[[0mdebug[0m] [0m	SparkGraphGenerator$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkGraphGenerator$.class[0m
+[0m[[0mdebug[0m] [0m	SparkConnectedComponents$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkConnectedComponents$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	links.txt[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/links.txt[0m
+[0m[[0mdebug[0m] [0m	SparkConnectedComponents.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkConnectedComponents.class[0m
+[0m[[0mdebug[0m] [0m	SparkConnectedComponents$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/liscju/AlgorytmyRownolegle/Lab3/target/scala-2.10/classes/SparkConnectedComponents$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
