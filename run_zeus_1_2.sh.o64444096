@@ -1,0 +1,11 @@
+----------------------- Starting Spark Master on Headnode
+starting org.apache.spark.deploy.master.Master, logging to /mnt/lustre/scratch2/people/plgliscju/bigdata_tmp/spark_logs/spark-plgliscju-org.apache.spark.deploy.master.Master-1-n1028-amd.zeus.out
+----------------------- Starting Worker on Headnode
+starting org.apache.spark.deploy.worker.Worker, logging to /mnt/lustre/scratch2/people/plgliscju/bigdata_tmp/spark_logs/spark-plgliscju-org.apache.spark.deploy.worker.Worker-8081-n1028-amd.zeus.out
+----------------------- Starting Workers on remote nodes
+Spark cluster has been setup !
+----------------------- Stopping Workers on remote nodes
+----------------------- Stopping Worker on Headnode
+stopping org.apache.spark.deploy.worker.Worker
+----------------------- Stopping Master on Headnode
+stopping org.apache.spark.deploy.master.Master
